@@ -1,0 +1,185 @@
+{
+  "Monday": [
+    {
+      "number": 1,
+      "start": "9:00am",
+      "end": "9:30am",
+      "duration": 30
+    },
+    {
+      "number": 2,
+      "start": "9:45am",
+      "end": "10:15am",
+      "duration": 30
+    },
+    {
+      "name": "Break",
+      "start": "10:15am",
+      "end": "10:45am",
+      "duration": 30
+    },
+    {
+      "number": 3,
+      "start": "10:45am",
+      "end": "11:15am",
+      "duration": 30
+    },
+    {
+      "name": "Advisory",
+      "start": "11:30am",
+      "end": "12:00pm",
+      "duration": 30
+    },
+    {
+      "name": "Lunch"
+      "start": "12:00pm",
+      "end": "1:00pm",
+      "duration": 60
+    },
+    {
+      "name": "Office Hours",
+      "start": "1:00pm",
+      "end": "3:00pm",
+      "duration": 120
+    },
+  ],
+  "Tuesday": [
+  {
+    "number": 4,
+    "start": "9:00am",
+    "end": "9:30am",
+    "duration": 30
+  },
+  {
+    "number": 5,
+    "start": "9:45am",
+    "end": "10:15am",
+    "duration": 30
+  },
+  {
+    "name": "Break",
+    "start": "10:15am",
+    "end": "10:45am",
+    "duration": 30
+  },
+  {
+    "number": 6,
+    "start": "10:45am",
+    "end": "11:15am",
+    "duration": 30
+  },
+  {
+    "number": 7,
+    "start": "11:30am",
+    "end": "12:00pm",
+    "duration": 30
+  },
+  {
+    "name": "Lunch"
+    "start": "12:00pm",
+    "end": "1:00pm",
+    "duration": 60
+  },
+  {
+    "name": "Office Hours",
+    "start": "1:00pm",
+    "end": "3:00pm",
+    "duration": 120
+  },
+],
+  "Wednesday": [
+  {
+    "number": 1,
+    "start": "9:00am",
+    "end": "9:30am",
+    "duration": 30
+  },
+  {
+    "number": 2,
+    "start": "9:45am",
+    "end": "10:15am",
+    "duration": 30
+  },
+  {
+    "name": "Break",
+    "start": "10:15am",
+    "end": "10:45am",
+    "duration": 30
+  },
+  {
+    "number": 3,
+    "start": "10:45am",
+    "end": "11:15am",
+    "duration": 30
+  },
+  {
+    "name": "Advisory",
+    "start": "11:30am",
+    "end": "12:00pm",
+    "duration": 30
+  },
+  {
+    "name": "Lunch"
+    "start": "12:00pm",
+    "end": "1:00pm",
+    "duration": 60
+  },
+  {
+    "name": "Office Hours",
+    "start": "1:00pm",
+    "end": "3:00pm",
+    "duration": 120
+  },
+],
+  "Thursday": [
+  {
+    "number": 1,
+    "start": "9:00am",
+    "end": "9:30am",
+    "duration": 30
+  },
+  {
+    "number": 2,
+    "start": "9:45am",
+    "end": "10:15am",
+    "duration": 30
+  },
+  {
+    "name": "Break",
+    "start": "10:15am",
+    "end": "10:45am",
+    "duration": 30
+  },
+  {
+    "number": 3,
+    "start": "10:45am",
+    "end": "11:15am",
+    "duration": 30
+  },
+  {
+    "name": "Advisory",
+    "start": "11:30am",
+    "end": "12:00pm",
+    "duration": 30
+  },
+  {
+    "name": "Lunch"
+    "start": "12:00pm",
+    "end": "1:00pm",
+    "duration": 60
+  },
+  {
+    "name": "Office Hours",
+    "start": "1:00pm",
+    "end": "3:00pm",
+    "duration": 120
+  },
+],
+  "Friday": [
+    {
+      "name": "Work Day & Club Meetings",
+      "start": "9:00am",
+      "end": "3:00pm",
+      "duration": 360
+    }
+  ]
