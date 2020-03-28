@@ -31,7 +31,7 @@
       "duration": 30
     },
     {
-      "name": "Lunch"
+      "name": "Lunch",
       "start": "12:00pm",
       "end": "1:00pm",
       "duration": 60
@@ -75,7 +75,7 @@
     "duration": 30
   },
   {
-    "name": "Lunch"
+    "name": "Lunch",
     "start": "12:00pm",
     "end": "1:00pm",
     "duration": 60
@@ -119,7 +119,7 @@
     "duration": 30
   },
   {
-    "name": "Lunch"
+    "name": "Lunch",
     "start": "12:00pm",
     "end": "1:00pm",
     "duration": 60
@@ -163,7 +163,7 @@
     "duration": 30
   },
   {
-    "name": "Lunch"
+    "name": "Lunch",
     "start": "12:00pm",
     "end": "1:00pm",
     "duration": 60
